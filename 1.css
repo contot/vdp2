@@ -1,0 +1,53 @@
+h1{
+    color: rgb(15, 230, 230);
+    font-family: 'Segoe UI' ;
+}
+hr{
+    width: 600px;
+}
+h2{
+    width: 500px;
+    margin-left: 500px;
+}
+h4{
+    width: 600px;
+    margin-left: 500px;
+}
+ul{
+    margin-left: 550px;
+    font-family: 'Segoe UI' ;
+    font-size: 13px;
+}
+hr{
+    width: 600px;
+    margin-left: 500px;
+}
+p{
+    width: 600px;
+    margin-left: 500px;
+}
+img{
+    width: 600px;
+    margin-left: 500px;
+}
+div.so1{
+    display: flex;
+    width: 800px;
+}
+img.con1{
+    width: 190px;
+    margin-right: 10;
+}
+img.con2{
+    width: 490px;
+    
+}
+
+.kcm img {
+    width: 20px;
+    height: 20px;
+    padding-top: 5px;
+}
+.kcm b {
+    color: green;
+}
